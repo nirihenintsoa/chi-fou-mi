@@ -1,0 +1,16 @@
+.image{
+    text-align: center;
+}
+.choix{
+    text-align: center;
+}
+button{
+   padding-right: 10%;
+  background-color:  rgba(rgb(87, 75, 75), green, blue, alpha);
+}
+p{
+    color: brown;
+    font-size: 100%;
+   font-weight: bolder;
+   font-family: fantasy;
+}
